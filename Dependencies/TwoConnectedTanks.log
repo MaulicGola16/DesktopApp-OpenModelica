@@ -1,0 +1,3 @@
+C:/Users/Maulic/AppData/Local/Temp/OpenModelica/OMEdit/NonInteractingTanks.TwoConnectedTanks/TwoConnectedTanks.exe -port=54426 -logFormat=xmltcp -override=startTime=0,stopTime=1,stepSize=0.002,tolerance=1e-06,solver=dassl,outputFormat=mat,variableFilter=.* -r=C:/Users/Maulic/AppData/Local/Temp/OpenModelica/OMEdit/NonInteractingTanks.TwoConnectedTanks/TwoConnectedTanks_res.mat -w -lv=LOG_STDOUT,LOG_ASSERT,LOG_STATS -inputPath=C:/Users/Maulic/AppData/Local/Temp/OpenModelica/OMEdit/NonInteractingTanks.TwoConnectedTanks -outputPath=C:/Users/Maulic/AppData/Local/Temp/OpenModelica/OMEdit/NonInteractingTanks.TwoConnectedTanks
+division by zero at time 0, (a=10) / (b=0), where divisor b expression is: tank2.Q1
+simulation terminated by an assertion at initialization
