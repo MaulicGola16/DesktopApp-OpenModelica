@@ -50,10 +50,10 @@ The project consists of two main tasks:
    ```sh
    pip install PyQt6
    ```  
-2. Save the script as **model_launcher.py**.  
+2. Save the script as **ModelLauncher.py**.  
 3. Run the script:  
    ```sh
-   python model_launcher.py
+   python ModelLauncher.py
    ```  
 
 ### **Usage Instructions**  
